@@ -1,1 +1,2 @@
-Git is fun
+**__Git is fun
+Fun it is__**
